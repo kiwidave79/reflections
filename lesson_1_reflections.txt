@@ -1,0 +1,8 @@
+- Easy to see the differences between two versions of one file
+- If there is a problem between two versions of the program, it's easier to identify the problem
+- you can commit, when a feature is finished and have defined commit points
+- a feature always consists of changes of a couple of files -> therefore all files should be committed at once
+- git log in order to get the history; git diff gets the difference between two commits
+- I always can go back to the previous version, which worked
+- try to find the problem and check in the bug fix
+
