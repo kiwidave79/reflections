@@ -1,0 +1,4 @@
+- subdirectory .git is created with the information about the repository
+- necessary in order to add/commit files
+- the working directory is every file on the computer; in the staging area I can see the files, I want to commit
+- it is possible to have other files as well in a directory, which should not be added to the repository
