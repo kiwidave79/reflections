@@ -4,3 +4,5 @@
 - it is possible to have other files as well in a directory, which should not be added to the repository
 - it is possible to check all the changes in the staging area before committing. In that way you can check, if any other changes were done.
 - branches are good for new features or if a version is published
+- you see in a graphical way the structure of the branches
+- result of merging two files is a merged branch or master with the changes of both branches
