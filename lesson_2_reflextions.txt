@@ -6,3 +6,6 @@
 - branches are good for new features or if a version is published
 - you see in a graphical way the structure of the branches
 - result of merging two files is a merged branch or master with the changes of both branches
+- automatic merges:
+   pros: easy to merge different branches together
+   cons: it can happen that conflicts appear (f.e. if same code is changed)
