@@ -5,3 +5,8 @@ Why might you want to always pull changes manually rather than having Git automa
   If I work on some changes and want my working copy to stay the same until I have finished my changes. Before pushing the changes on to GitHub I have to merge the changes, other people have done in the meantime.
   Push: In order to provide a working version of the project on GitHub. In that way other people, who are part of the team, have always a working version and can contribute.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+  Clone: clone of an existing repository to another repository (f.e. a clone of two local repositories or also a local clone of a remote repository)
+  Fork: like a clone on GitHub (possible to clone a repository of another user and work on that fork)
+  Branch: different versions of a project within a repository
+  
